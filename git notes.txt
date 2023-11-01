@@ -1,0 +1,12 @@
+git commands
+
+1. iniialize - git init
+2. tracking status git status
+3. commiting code : git commit -m "this is my 1st commit" (-m stand for msg)
+
+
+ERROR -- Author identity unknown... While commiting file
+
+git config --global user.email "@gmail.com"
+git config --global user.name "UserName"
+
